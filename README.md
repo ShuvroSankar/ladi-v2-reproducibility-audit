@@ -36,7 +36,7 @@ LADI v2 is a multi-label disaster-imagery dataset built from Civil Air Patrol ae
 ## Citation
 
 If you use this audit, please also cite the original dataset:
-
+<!-- 
 ```bibtex
 @article{scheele2024ladi,
   title={LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery},
@@ -45,11 +45,12 @@ If you use this audit, please also cite the original dataset:
   year={2024}
 }
 ```
+-->
 
 ## Author
 
-[Your Name] — [Your Institution]
-Supervisor: [Supervisor Name]
+Shuvro Sankar Sen — American International University-Bangladesh
+Supervisor: Prof. Dr. M. Shamim Kaiser
 
 ## Acknowledgments
 
