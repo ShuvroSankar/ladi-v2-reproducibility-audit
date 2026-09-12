@@ -55,4 +55,4 @@ Supervisor: Prof. Dr. M. Shamim Kaiser
 ## Acknowledgments
 
 Built on data and models released by MIT Lincoln Laboratory under the terms described in the original LADI v2 repository. This is an independent, third-party audit and is not affiliated with or endorsed by the original authors.
-# ladi-v2-reproducibility-audit
+
