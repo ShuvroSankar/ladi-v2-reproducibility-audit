@@ -32,6 +32,7 @@ LADI v2 is a multi-label disaster-imagery dataset built from Civil Air Patrol ae
 1. Dataset: [MITLL/LADI-v2-dataset](https://huggingface.co/datasets/MITLL/LADI-v2-dataset) on Hugging Face, or the resized CSV/image release linked from the dataset repository.
 2. Model: [MITLL/LADI-v2-classifier-small-reference](https://huggingface.co/MITLL/LADI-v2-classifier-small-reference) (BiT-50), loaded via `transformers`.
 3. `pipeline.ipynb` runs anywhere with the HF `datasets` and `transformers` libraries. `kaggle_finetuning_experiments.ipynb` was run on Kaggle's T4 GPU tier and expects the dataset mounted as a Kaggle input — adjust `CSV_PATH` / `IMAGE_ROOT` for a different environment.
+4. Kaggle: https://www.kaggle.com/code/shuvrosankar/notebookb9d9a962a0
 
 ## Citation
 
